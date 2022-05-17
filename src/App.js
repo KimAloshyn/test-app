@@ -16,11 +16,9 @@ function App() {
         <button onClick={handleShowAlert}>Show alert</button>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="https://github.com/KimAloshyn/test-app"
         >
-          Learn React
+          GitHub link
         </a>
       </header>
     </div>
